@@ -29,11 +29,6 @@
             Text="{Binding Description}"
             AutoSize="TextChanges"/>
 
-            <StackLayout Orientation="Horizontal">
-                <Label Text="🚦 Status 🚦"
-                   VerticalOptions="CenterAndExpand" 
-                   FontSize="Title" />
-            </StackLayout>
 
             <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="20" Spacing="10">
                 <Button
